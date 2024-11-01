@@ -1,0 +1,6 @@
+{
+  "parent": "rechiseled:block/cube_all",
+  "textures": {
+    "all": "rechiseled:block/mossy_cobblestone_beams"
+  }
+}
