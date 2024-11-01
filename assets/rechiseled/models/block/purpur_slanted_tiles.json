@@ -1,0 +1,6 @@
+{
+  "parent": "rechiseled:block/cube_all",
+  "textures": {
+    "all": "rechiseled:block/purpur_slanted_tiles"
+  }
+}
