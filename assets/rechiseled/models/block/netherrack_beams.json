@@ -1,0 +1,6 @@
+{
+  "parent": "rechiseled:block/cube_all",
+  "textures": {
+    "all": "rechiseled:block/netherrack_beams"
+  }
+}
