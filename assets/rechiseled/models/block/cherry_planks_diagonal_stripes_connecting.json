@@ -1,0 +1,16 @@
+{
+  "type": "fusion:connecting",
+  "parent": "rechiseled:block/cube_all",
+  "connections": {
+    "type": "fusion:or",
+    "predicates": [
+      {
+        "type": "fusion:is_same_block"
+      }
+    ]
+  },
+  "loader": "fusion:model",
+  "textures": {
+    "all": "rechiseled:block/cherry_planks_diagonal_stripes"
+  }
+}
